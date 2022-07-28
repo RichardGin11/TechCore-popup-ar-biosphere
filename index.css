@@ -1,0 +1,57 @@
+#nextbutton {
+    width: 25vw;
+    height: auto;
+    position: absolute;
+    bottom: 6vh;
+    left: 0vw;
+    background-color: #AD50FF;
+    border: 0.2em solid white;
+    text-align: center;
+    color: #FFF;
+    border-radius: 100px;
+  }
+  #nextbutton:active {
+    background-color: white;
+    color: #AD50FF;
+  }
+  
+  #nextbuttonTwo {
+    width: 25vw;
+    height: auto;
+    position: absolute;
+    bottom: 6vh;
+    left: 37.5vw;
+    background-color: #AD50FF;
+    border: 0.2em solid white;
+    text-align: center;
+    color: #FFF;
+    border-radius: 100px;
+  }
+  #nextbuttonTwo:active {
+    background-color: white;
+    color: #AD50FF;
+  }
+  
+  #nextbuttonThree {
+    width: 25vw;
+    height: auto;
+    position: absolute;
+    bottom: 6vh;
+    left: 75vw;
+    background-color: #AD50FF;
+    border: 0.2em solid white;
+    text-align: center;
+    color: #FFF;
+    border-radius: 100px;
+  }
+  #nextbuttonThree:active {
+    background-color: white;
+    color: #AD50FF;
+  }
+  
+  
+  h2 {
+    font-size: 1.3em;
+    text-align: center;
+    font-family: monospace;
+  }
